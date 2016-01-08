@@ -1,0 +1,12 @@
+D:\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\Tetris\Tetris\obj\Debug\Interop.WMPLib.dll
+D:\Tetris\Tetris\obj\Debug\Tetris.csproj.ResolveComReference.cache
+D:\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+D:\Tetris\Tetris\obj\Debug\Tetris.Form2.resources
+D:\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+D:\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\Tetris\Tetris\obj\Debug\Tetris.pdb
